@@ -7,11 +7,11 @@
 
 ## Installation
 
-1. Download  ([dualSpeakerOutput.zip](https://github.com/quietpulse/dualSpeakerOutput/releases/download/v1/dualSpeakerOutput.zip))
+1. Download  ([dualSpeakerOutput.zip](https://github.com/kagiyanagi/dualSpeakerOutput/releases/download/v1/DualSpkrModule.zip))
 2. In Magisk Manager → Modules → Install from storage  
 3. Reboot
 4. Wait **20 s** for audio HAL startup 
 
-### "Generally, this module is safe to use. However, if anything happens to your phone—such as hardware damage—I will not be held responsible. Use it wisely."
+### "Generally, this module is safe to use. However, if anything happens to your phone, such as hardware damage, I will not be held responsible. Use it wisely."
 
 Enjoy your dual‑speaker setup!  
